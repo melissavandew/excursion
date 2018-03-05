@@ -7,19 +7,54 @@ body {
 
 h1 {
   font-family: Verdana, sans-serif;
+  font-weight: normal;
   text-align: center;
   color: white;
-  font-size: 28
+  font-size: 50
 }
 
 h2 {
   font-family: Verdana, sans-serif;
+  font-weight: 300;
   text-align: center;
   color: white;
-  font-size: 24
+  font-size: 42
 }
 
 p {
     color: grey;
-    font-size: 20px;
+    font-size: 21px;
+}
+
+/* unvisited link */
+a:link {
+  color: #66CDAA;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #66CDAA;
+  text-decoration: none;
+}
+
+/* mouseover link */
+a:hover {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+/* FOOTER */
+footer {
+  font-family: Verdana, sans-serif;
+  font-size: 18;
+  text-align: right;
+  color: gray;
+
 }
