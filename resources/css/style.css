@@ -26,10 +26,9 @@ p {
     font-size: 21px;
 }
 
-a.cta {
+.cta {
   color: Aquamarine;
   font-size: 16;
-  text-decoration: none;
 }
 
 .footer {
