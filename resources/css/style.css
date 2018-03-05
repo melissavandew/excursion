@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 28
+}
+
+h2 {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 24
+}
+
+p {
+    color: grey;
+    font-size: 20px;
+}
