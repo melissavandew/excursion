@@ -26,34 +26,17 @@ p {
     font-size: 21px;
 }
 
-/* unvisited link */
-a:link {
-  color: #66CDAA;
+a.cta {
+  color: Aquamarine;
+  font-size: 16;
   text-decoration: none;
 }
 
-/* visited link */
-a:visited {
-  color: #66CDAA;
-  text-decoration: none;
-}
-
-/* mouseover link */
-a:hover {
-  color: #FFFFFF;
-  text-decoration: underline;
-}
-
-/* selected link */
-a:active {
-  color: #FFFFFF;
-  text-decoration: underline;
-}
 
 /* FOOTER */
 footer {
   font-family: Verdana, sans-serif;
-  font-size: 18;
+  font-size: 16;
   text-align: right;
   color: gray;
 
